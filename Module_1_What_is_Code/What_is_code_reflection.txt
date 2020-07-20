@@ -1,0 +1,38 @@
+Q) In your own words, what is a computer really doing whenever you type a letter on a keyboard?
+A) Computer will convert the words/letter written through the keyboard into a computer understandable language which is called machine language.
+
+Q) In your own words, how do computers use input and output to create experiences? (250 words max)
+A) We give the computer some kind of input and the computer gives us the result which is the processed output. For example when you scan a barcode of any item you get instant results which is the output.
+
+Q) Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+Software products only require you to code one time. Once they are coded it can be used again and again. That's why the term infinitely reproducible nothings are used. 
+
+Q) Explain in your own words how code becomes software. (150 words max)
+A) Software is basically merging different small programs/codes into one big program. 
+
+Q) Explain “algorithms” in your own words. (150 words max)
+A) Algorithms are basically set of instructions that will be executed to perform a specific task or tasks.
+
+Q) Explain the DRY principle.
+A) DRY means Dont repeat yourself. Write a code that can be reused again and again.
+
+Q) In your own words, what is object-oriented programming? (100 words max)
+A) OOP is used to bind together the data and the functions.
+
+Q) In your own words explain data and how it relates to code. (100 Words max)
+A) Code is linked with data i.e produces its own data or uses the data for results.
+
+Q) What is a framework? (150 words max)
+A) Basically framework is a pre-written code, It has chunks of code that can be reused to write your own code.
+
+Q) What is debugging? (150 words max)
+A) Debugging is finding out the failure and problems in the code. Most of a programmer's life is spent in debugging.
+
+Q) Now, with more of an understanding of what code is, why do you want to learn how to code?
+(500 words max)
+A) Some of the reasons why I want to learn to code are below,
+1) I want to learn to code so that I can create new application and websites.
+2) Use the knowledge of programing to add more features to already developed software.
+3) Convert ideas into software that can help people.
+4) It teaches you how to think.
+5) Solve problems.
