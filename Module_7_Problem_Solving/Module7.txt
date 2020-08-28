@@ -1,0 +1,62 @@
+Q. Define a community problem you want to solve with technology and the people who it affects that you want to serve?
+A. Description of the problem: The community that I belong to is a muslim community and ever since I came here I have seen that this has been a problem for every muslim that I have come across and that is eating food outside. For muslim it is absolutely nessecary that we eat Halal Food only and no other food other than halal can be eaten by muslims thats why alot of muslims only prefer eating food at home because it feels like a hassle to go out and find halal food and eat. People usually eat at few restaurant they know offers halal food and then they keep eating there until they hear of or find another restaurant. This is a challenging thing that every muslim has to face to eat food outside and then there is another category inside halal food which some muslims prefer over the normal halal food, which is called zabiha halal. Finding zabiha halal food is next to impossible because you have to go to every halal restaurant and ask them if it is halal or zabiha halal. I want to solve this problem for my community. I want to be able to provide my community with platform that is specifically targetting their kind of food and then can easily just go to that platform and have many option to choose from, they should have the freedom and options to choose from any food/dishes without being able to worry about it being halal or not and can choose whether it is a halal food or zabiha halal and also choose the category of food they want either asian, medittererian, indian etc.
+
+Q. Write a full description of your application and bonus points for including drawings(digital or physical).
+A. To help visualize the platform I will give an example of uber eats, imagine uber eats but only for halal. The application will be react-based multiplatform application i.e Web and Mobile. 
+    The target users are muslim community with access to internet and mobile. 
+    The following features will be available for users,
+        1) Ability to create account for themselves.
+        2) The first time - the first screen should be where they can choose category of food i.e halal, zabiha halal and save their location/address where the want food to be delivered and choose it as a preference for everytime they log in.
+        3) Second screen will have list of all the restaurants
+        4) Third screen the user will select there order.
+        5) Fourth screen the user will complete the checkout and pay.
+        6) Fifth screen, is where user will see the estimated time for there food to be delivered.
+        7) After food delivery is completed the user will have the option to rate the restaurant.
+
+Fill out a lean business canvas with all the necessary factors:
+A. The lean business canvas,
+    1) Problem Definition: I want to ease the process/problem of eating outside for muslim and show the community that infact they have more options to choose from in halal food. No muslim should need to worry about eating outside is a problem because of halal food.
+    2) Customer Segmentation: 
+        1) Muslims (immigrants and born here) all over USA 
+        2) Between all ages 
+        3) Have access to internet and a mobile device 
+        4) Have enough money to eat outside/ Order food.
+
+    3) Solution: 
+        1) To provide a platform where users can go and find all the halal restuarants in a single place. 
+        2) Choose different categories within halal category. 
+        3) Choose more options to segregate food they wish to order i.e medittererian, arabic, asian etc. 
+
+    4) Key Metrics: We will know our solution is effective,
+        1) By internal testing
+        2) By user testing.
+        3) By runing surveys with the public to ask them if this solution will help them
+        4) By asking in person with general public within this community if this will help the community
+
+    5) Unique Value preposition: The other platforms offering this solution is providing a solution similar to this but they are not targetting a specific community, they are targetting everyone which is good for them but for muslim community specifically there needs to be a specific platform which is specifically giving them the solution tailored specially for their food needs. 
+    
+    6) Channels: 
+        The distribution channels that will be used for delivering the platform will be,
+            1) Website
+            2) Application downloads
+            3) Online marketing
+            4) Word of mouth
+            5) Special discounts
+        The distribution channel that will be used to get food to users,
+            1) Halal restaurants
+            2) Delivery drivers
+
+    7) Unfair advantage: The unfair advantage that this solution provides is targeting a very specific type of people and offering solution for them specifically and there is no other product in the market that is currently providing this solution.
+
+
+    8) Cost Structure: 
+        1) The cost to develop and maintain the mobile application and Website
+        2) The cost of infastructure to keep the app running and live
+        3) The cost of marketing
+        Initial cost is around $100k to develop and then assuming 10k users from 2nd year onwards it will be  
+
+    9) Revenue Structure: 
+        1) We will earn the revenue through advertisment on the platform
+        2) Through taking commision from restaurant for every order they sell i.e 10% commision for providing them the platform to gain more customer and sell their services
+
+
